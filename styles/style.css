@@ -113,7 +113,7 @@ body{
 .apresentacao__links__apresentacao:hover{
     background-color: var(--cor-rover);
     color: azure;
-   padding: 10%;
+   padding: 6%;
     border:2px double var(--cor-rover);
 }
  
